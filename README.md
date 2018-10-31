@@ -1,1 +1,1 @@
-# hackerearth-make_my_trip
+# HACKEREARTH-Make_My_Trip
